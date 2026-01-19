@@ -1,2 +1,54 @@
 origin	https://github.com/kkkbeast/experiment-log.git (fetch)
 origin	https://github.com/kkkbeast/experiment-log.git (push)
+commit 848c67c02462443bcfd7bd235c174ef8fb301ce1
+Author: Yixuan <ykuang@ucsd.edu>
+Date:   Sun Jan 18 20:44:13 2026 -0800
+
+    Add deliverable file
+
+commit 759a6dfe06a6ddb31eb8fa94a34b2435ab60ee84
+Author: kkkbeast <87715278+kkkbeast@users.noreply.github.com>
+Date:   Sun Jan 18 20:36:20 2026 -0800
+
+    Update README.md
+
+commit 905ae463f3ac8927258882779d48df1491f802de
+Merge: 4b54ece 5a4a075
+Author: Yixuan <ykuang@ucsd.edu>
+Date:   Sun Jan 18 20:28:19 2026 -0800
+
+    erge branch 'main' of https://github.com/kkkbeast/experiment-log
+    kijfroiadshjfkdlsafjadskl;fjsdalk;j
+    ]fdsafdsafsda
+    
+    /**fdsafdsatjrekltjrewiop
+    
+    stop!!!
+    
+    /
+
+commit 5a4a075a0870cddb4ec744e87b236b8eee6f96dd
+Author: kkkbeast <87715278+kkkbeast@users.noreply.github.com>
+Date:   Sun Jan 18 20:19:03 2026 -0800
+
+    Delete log.txt
+    
+    need to delete this
+
+commit 4b54ecec55f90ec1490bf561bf046beaf054c4fa
+Author: Yixuan <ykuang@ucsd.edu>
+Date:   Sun Jan 18 20:12:14 2026 -0800
+
+    added first log entry
+
+commit 3cd997a086d4ca13cbc02c7ed53b76ef51fcfd79
+Author: kkkbeast <87715278+kkkbeast@users.noreply.github.com>
+Date:   Sun Jan 18 20:06:11 2026 -0800
+
+    Add files via upload
+
+commit 4199f2ed7cc00ef25bbc44d3fd69113137ebe6a1
+Author: kkkbeast <87715278+kkkbeast@users.noreply.github.com>
+Date:   Sun Jan 18 19:57:21 2026 -0800
+
+    Initial commit
